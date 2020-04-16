@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiang",
+    "texture": "69ZIWGVfdDd7fQGodD6dVa",
+    "rect": [
+      2,
+      28,
+      386,
+      361
+    ],
+    "offset": [
+      -61,
+      47.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

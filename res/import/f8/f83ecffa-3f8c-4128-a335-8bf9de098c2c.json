@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_daily_bonus_get",
+    "texture": "d41kaPIxVNRJLJF5HvGptQ",
+    "rect": [
+      3,
+      0,
+      475,
+      129
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      480,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

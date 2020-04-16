@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quick start",
+    "texture": "cclx5MDtJFXqoU7WxxI3nu",
+    "rect": [
+      3,
+      3,
+      990,
+      1019
+    ],
+    "offset": [
+      -14,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

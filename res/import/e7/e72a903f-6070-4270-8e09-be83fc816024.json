@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "inter",
+    "texture": "1b/iI34c1AGowWBsXQmZ1f",
+    "rect": [
+      3,
+      6,
+      477,
+      99
+    ],
+    "offset": [
+      -14.5,
+      8.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

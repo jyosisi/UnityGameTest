@@ -1,0 +1,199 @@
+[
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "img_wheel_spin_num",
+    "spriteFrame": {
+      "__uuid__": "85kzUMCaFDeaf94gPXkAwt"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 30,
+      "fontSize": 32,
+      "atlasName": "img_wheel_spin_num.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 160
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 20
+        },
+        "36": {
+          "rect": {
+            "x": 26,
+            "y": 91,
+            "width": 24,
+            "height": 33
+          },
+          "xOffset": 0,
+          "yOffset": -1,
+          "xAdvance": 23
+        },
+        "46": {
+          "rect": {
+            "x": 53,
+            "y": 31,
+            "width": 13,
+            "height": 12
+          },
+          "xOffset": 0,
+          "yOffset": 17,
+          "xAdvance": 12
+        },
+        "48": {
+          "rect": {
+            "x": 53,
+            "y": 0,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "49": {
+          "rect": {
+            "x": 28,
+            "y": 0,
+            "width": 19,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 18
+        },
+        "50": {
+          "rect": {
+            "x": 0,
+            "y": 30,
+            "width": 25,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 24
+        },
+        "51": {
+          "rect": {
+            "x": 52,
+            "y": 60,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "52": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 26,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 25
+        },
+        "53": {
+          "rect": {
+            "x": 52,
+            "y": 91,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "54": {
+          "rect": {
+            "x": 26,
+            "y": 60,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "55": {
+          "rect": {
+            "x": 27,
+            "y": 30,
+            "width": 24,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "56": {
+          "rect": {
+            "x": 0,
+            "y": 60,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        },
+        "57": {
+          "rect": {
+            "x": 0,
+            "y": 91,
+            "width": 24,
+            "height": 29
+          },
+          "xOffset": 0,
+          "yOffset": 1,
+          "xAdvance": 23
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "img_wheel_spin_num",
+      "texture": "d3Pp6qAANAuI2EhC93jYol",
+      "rect": [
+        0,
+        0,
+        77,
+        124
+      ],
+      "offset": [
+        -25.5,
+        2
+      ],
+      "originalSize": [
+        128,
+        128
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

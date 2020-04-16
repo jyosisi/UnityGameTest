@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gin_back7_2",
+    "texture": "97hLLQg6dMj6T1TyPUFDoY",
+    "rect": [
+      4,
+      0,
+      157,
+      214
+    ],
+    "offset": [
+      2,
+      2
+    ],
+    "originalSize": [
+      161,
+      218
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

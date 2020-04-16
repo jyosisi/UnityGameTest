@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "hua.atlas",
+  "text": "\nhua.png\nsize: 128,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhua\n  rotate: false\n  xy: 2, 2\n  size: 42, 44\n  orig: 42, 44\n  offset: 0, 0\n  index: -1\nxx\n  rotate: false\n  xy: 2, 48\n  size: 64, 64\n  orig: 64, 64\n  offset: 0, 0\n  index: -1\n"
+}

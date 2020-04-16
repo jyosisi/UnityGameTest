@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lobby_bg_1_xmas",
+    "texture": "7dg5I4r4hPEoQqVq63VvY0",
+    "rect": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      960
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

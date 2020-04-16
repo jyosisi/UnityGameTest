@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "qiqiu.atlas",
+  "text": "\nqiqiu.png\nsize: 512,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0\n  rotate: true\n  xy: 2, 8\n  size: 47, 61\n  orig: 47, 61\n  offset: 0, 0\n  index: -1\n0_xian\n  rotate: true\n  xy: 325, 8\n  size: 20, 38\n  orig: 20, 38\n  offset: 0, 0\n  index: -1\nE\n  rotate: true\n  xy: 127, 13\n  size: 42, 64\n  orig: 42, 64\n  offset: 0, 0\n  index: -1\nE_xian\n  rotate: true\n  xy: 376, 36\n  size: 19, 54\n  orig: 19, 54\n  offset: 0, 0\n  index: -1\nH\n  rotate: true\n  xy: 65, 7\n  size: 48, 60\n  orig: 48, 60\n  offset: 0, 0\n  index: -1\nH_xian\n  rotate: false\n  xy: 376, 2\n  size: 34, 32\n  orig: 34, 32\n  offset: 0, 0\n  index: -1\nL\n  rotate: true\n  xy: 259, 15\n  size: 40, 64\n  orig: 40, 64\n  offset: 0, 0\n  index: -1\nL2\n  rotate: true\n  xy: 193, 13\n  size: 42, 64\n  orig: 42, 64\n  offset: 0, 0\n  index: -1\nL2_xian\n  rotate: true\n  xy: 325, 30\n  size: 25, 49\n  orig: 25, 49\n  offset: 0, 0\n  index: -1\nL_xian\n  rotate: true\n  xy: 432, 38\n  size: 17, 45\n  orig: 17, 45\n  offset: 0, 0\n  index: -1\n"
+}

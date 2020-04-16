@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "pai.atlas",
+  "text": "\npai.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGin_back6\n  rotate: false\n  xy: 682, 262\n  size: 161, 218\n  orig: 161, 218\n  offset: 0, 0\n  index: -1\nGin_back_thanksgiving\n  rotate: false\n  xy: 845, 262\n  size: 161, 218\n  orig: 161, 218\n  offset: 0, 0\n  index: -1\nGin_back_wsj\n  rotate: false\n  xy: 2, 223\n  size: 186, 257\n  orig: 186, 257\n  offset: 0, 0\n  index: -1\nblack_1\n  rotate: false\n  xy: 2, 2\n  size: 162, 219\n  orig: 162, 219\n  offset: 0, 0\n  index: -1\ngarden_1\n  rotate: true\n  xy: 190, 99\n  size: 160, 217\n  orig: 160, 217\n  offset: 0, 0\n  index: -1\nmoren_1\n  rotate: false\n  xy: 190, 261\n  size: 162, 219\n  orig: 162, 219\n  offset: 0, 0\n  index: -1\nniuzai_1\n  rotate: false\n  xy: 354, 261\n  size: 162, 219\n  orig: 162, 219\n  offset: 0, 0\n  index: -1\npet_1\n  rotate: false\n  xy: 518, 261\n  size: 162, 219\n  orig: 162, 219\n  offset: 0, 0\n  index: -1\n"
+}

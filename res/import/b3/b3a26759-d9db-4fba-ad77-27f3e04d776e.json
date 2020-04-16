@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ui_touxiang.atlas",
+  "text": "\nui_touxiang.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\neff_1\n  rotate: false\n  xy: 225, 307\n  size: 146, 146\n  orig: 146, 146\n  offset: 0, 0\n  index: -1\neff_10\n  rotate: false\n  xy: 373, 373\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\neff_2\n  rotate: false\n  xy: 2, 89\n  size: 159, 155\n  orig: 159, 155\n  offset: 0, 0\n  index: -1\neff_3\n  rotate: false\n  xy: 225, 286\n  size: 63, 19\n  orig: 63, 19\n  offset: 0, 0\n  index: -1\neff_4\n  rotate: true\n  xy: 163, 183\n  size: 61, 26\n  orig: 61, 26\n  offset: 0, 0\n  index: -1\neff_5\n  rotate: false\n  xy: 2, 246\n  size: 221, 207\n  orig: 221, 207\n  offset: 0, 0\n  index: -1\neff_9\n  rotate: false\n  xy: 2, 7\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\n"
+}

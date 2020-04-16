@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_levelup_gin4",
+    "texture": "71d/hTRI5BerOzKk8UWBV1",
+    "rect": [
+      2,
+      0,
+      80,
+      67
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      83,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

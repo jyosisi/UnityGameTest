@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_lobby_unlocked_gin",
+    "texture": "bdmvYd2ydAwpn18qYn5b7O",
+    "rect": [
+      1,
+      1,
+      104,
+      127
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      108,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

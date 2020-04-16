@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pai",
+    "texture": "b2AEkYbHpHXYQucpajXCi4",
+    "rect": [
+      3,
+      3,
+      1003,
+      477
+    ],
+    "offset": [
+      -7.5,
+      14.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

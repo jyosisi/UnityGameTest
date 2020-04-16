@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "west",
+    "texture": "4dD3itp5xGUKXuFOmXWkVT",
+    "rect": [
+      2,
+      4,
+      868,
+      975
+    ],
+    "offset": [
+      -76,
+      20.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

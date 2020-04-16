@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaonangua",
+    "texture": "aeMqF/YnFBtqTew60m1zKB",
+    "rect": [
+      3,
+      59,
+      245,
+      189
+    ],
+    "offset": [
+      -2.5,
+      -25.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

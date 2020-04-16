@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "total rank.atlas",
+  "text": "\ntotal rank.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncoin\n  rotate: false\n  xy: 2, 28\n  size: 91, 93\n  orig: 91, 93\n  offset: 0, 0\n  index: -1\nl_1\n  rotate: false\n  xy: 117, 156\n  size: 59, 81\n  orig: 59, 81\n  offset: 0, 0\n  index: -1\nlight\n  rotate: false\n  xy: 2, 123\n  size: 113, 114\n  orig: 113, 114\n  offset: 0, 0\n  index: -1\nr_1\n  rotate: false\n  xy: 178, 156\n  size: 59, 81\n  orig: 59, 81\n  offset: 0, 0\n  index: -1\n"
+}

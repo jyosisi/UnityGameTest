@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "nangua.atlas",
+  "text": "\nnangua.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nghost1\n  rotate: false\n  xy: 2, 44\n  size: 53, 80\n  orig: 53, 80\n  offset: 0, 0\n  index: -1\nghost2\n  rotate: false\n  xy: 57, 86\n  size: 30, 38\n  orig: 30, 38\n  offset: 0, 0\n  index: -1\ngua_benti\n  rotate: false\n  xy: 2, 2\n  size: 48, 40\n  orig: 48, 40\n  offset: 0, 0\n  index: -1\ngua_eye\n  rotate: true\n  xy: 132, 143\n  size: 37, 24\n  orig: 37, 24\n  offset: 0, 0\n  index: -1\ngua_eye2\n  rotate: false\n  xy: 167, 230\n  size: 37, 24\n  orig: 37, 24\n  offset: 0, 0\n  index: -1\ngua_ying\n  rotate: true\n  xy: 167, 186\n  size: 42, 16\n  orig: 42, 16\n  offset: 0, 0\n  index: -1\nhat\n  rotate: true\n  xy: 57, 46\n  size: 38, 23\n  orig: 38, 23\n  offset: 0, 0\n  index: -1\nright\n  rotate: false\n  xy: 132, 182\n  size: 33, 72\n  orig: 33, 72\n  offset: 0, 0\n  index: -1\nyanwu\n  rotate: false\n  xy: 2, 126\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n"
+}

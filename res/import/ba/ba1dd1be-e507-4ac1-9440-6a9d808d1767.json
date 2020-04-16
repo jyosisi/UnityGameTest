@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rukou",
+    "texture": "76SnH1EcVLO5VlJ4pFjlPC",
+    "rect": [
+      3,
+      13,
+      122,
+      112
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

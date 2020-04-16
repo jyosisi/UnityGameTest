@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiqiren",
+    "texture": "0a0uqDzs9N65AJ/oMl1SDR",
+    "rect": [
+      3,
+      3,
+      504,
+      121
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

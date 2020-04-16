@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kiss",
+    "texture": "20YTo87D1Jc5HhnOkS8KqE",
+    "rect": [
+      2,
+      3,
+      198,
+      123
+    ],
+    "offset": [
+      -27,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "ChipRotate",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ChipRotate",
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 1
+        },
+        "defaultAnimation": "animation",
+        "_preCacheMode": 0,
+        "timeScale": 2.5,
+        "_animationName": "animation",
+        "_N$skeletonData": {
+          "__uuid__": "cctf9H6rZDnrAeR3uRLjaz"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "f1pRIDgvlKNr89KROZ6gg2"
+      },
+      "fileId": "adMnr2ndpMkrIrA7QFK/go"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 43.8,
+      "height": 43.8
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guzhang",
+    "texture": "66SSu8EoBFP7HVHECpTBmT",
+    "rect": [
+      3,
+      3,
+      205,
+      76
+    ],
+    "offset": [
+      -22.5,
+      23
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

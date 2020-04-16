@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "smoke",
+    "texture": "3fpE5uRRtG5pJupUEr5AFa",
+    "rect": [
+      3,
+      41,
+      506,
+      468
+    ],
+    "offset": [
+      0,
+      -19
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "DiamondRotate",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "DiamondRotate",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 1
+        },
+        "defaultAnimation": "animation",
+        "_N$skeletonData": {
+          "__uuid__": "bbfsoYqYJFO4NfFgxQCAAd"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "a065G5p9RDP7m6/US3pgCh"
+      },
+      "fileId": "0aoFodmFtFIZKIH4dtCRFF"
+    },
+    "_scaleX": 1,
+    "_scaleY": 1
+  }
+]

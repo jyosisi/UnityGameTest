@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "roomaiproto",
+  "text": "package proto;\r\n\r\noption optimize_for = LITE_RUNTIME;\r\noption java_package = \"com.aemobile.patti.room.bean\";\r\noption java_outer_classname = \"PattiRoomAIProto\";\r\n\r\nimport \"commonproto.proto\";\r\n\r\n//CMD chipraise 是否是chips增长局的输钱AI\r\n//无参\r\n\r\n//CMD inchipraise是否是chips增长局进入的AI\r\n//无参\r\n\r\n//------------CMD ismax\r\n//无参\r\n//Common_Boolean isMax\r\n\r\n//------------CMD aileave\r\n//无参"
+}

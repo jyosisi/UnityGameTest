@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_profile_how_earn_di1",
+    "texture": "7eXybZBYpMLYvz593kxbwU",
+    "rect": [
+      0,
+      0,
+      160,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      100
+    ],
+    "capInsets": [
+      120,
+      0,
+      25,
+      0
+    ]
+  }
+}

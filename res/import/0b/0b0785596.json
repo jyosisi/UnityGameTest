@@ -1,0 +1,342 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "img_gs_card_green",
+      "texture": "e6PVpEtRpLhrSErvaCCSz4",
+      "rect": [
+        1,
+        1,
+        98,
+        98
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "PokerCard",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "PokerCard",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "e2560NAUEtB2YTvX0AlyuCF",
+          "node": {
+            "__id__": 1
+          },
+          "cardSprite": {
+            "__id__": 3
+          },
+          "groupImgs": [
+            {
+              "__id__": 4
+            },
+            {
+              "__id__": 5
+            },
+            {
+              "__id__": 6
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6bWYbC7dxMQb1wwPMR74sn"
+        },
+        "fileId": "deWm4FRXJGjbPK6WiTRRA5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 150,
+        "height": 206
+      },
+      "_scaleX": 0.75,
+      "_scaleY": 0.75
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "CardSprite",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6bWYbC7dxMQb1wwPMR74sn"
+        },
+        "fileId": "22d5NRkK5Nra90uEU0S7Mp"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 161,
+        "height": 218
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -6,
+        "y": -7
+      },
+      "_scaleX": 1,
+      "_scaleY": 1
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 2
+      },
+      "_spriteFrame": {
+        "__uuid__": "9dsuNmYTROxbdoz+vHuWxJ"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "group1",
+      "_parent": {
+        "__id__": 1
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "ffArF/IH9FTp1TajPpHgZR"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6bWYbC7dxMQb1wwPMR74sn"
+        },
+        "fileId": "31bN82RbFNJ6SsPM73jqtM"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 100,
+        "height": 100
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -41,
+        "y": 63
+      },
+      "_scaleX": 1,
+      "_scaleY": 1
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "group2",
+      "_parent": {
+        "__id__": 1
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "11VXZ1W4pFYLa+YLVaXQIr"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6bWYbC7dxMQb1wwPMR74sn"
+        },
+        "fileId": "dfSzzeIAJOMo8zfuLbPOPS"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 100,
+        "height": 100
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -41,
+        "y": 63
+      },
+      "_scaleX": 1,
+      "_scaleY": 1
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "group3",
+      "_parent": {
+        "__id__": 1
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "71T5ffBixH86qUWhGAC929"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "6bWYbC7dxMQb1wwPMR74sn"
+        },
+        "fileId": "70OlDeEpZKMoaT1M1cKJEX"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 100,
+        "height": 100
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -41,
+        "y": 63
+      },
+      "_scaleX": 1,
+      "_scaleY": 1
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "img_gs_card_purple",
+      "texture": "e1Jq3cIBVMbYwRw+nCm/3T",
+      "rect": [
+        0,
+        0,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "R_5_black_club",
+      "texture": "49J8uYOFROqqXEsNg4/X+H",
+      "rect": [
+        0,
+        0,
+        161,
+        218
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        161,
+        218
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "img_gs_card_blue",
+      "texture": "e0qkDbL81BCZmmSmF+4hxs",
+      "rect": [
+        0,
+        0,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

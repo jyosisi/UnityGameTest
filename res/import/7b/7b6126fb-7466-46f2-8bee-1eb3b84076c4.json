@@ -1,0 +1,872 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "AD",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"7L2wScLWONk5s9CokTH8NnSvTtQ\",\"spine\":\"3.5.51\",\"width\":97,\"height\":63},\"bones\":[{\"name\":\"root\"},{\"name\":\"bone\",\"parent\":\"root\"},{\"name\":\"Coin icon1\",\"parent\":\"bone\",\"rotation\":119.06,\"x\":20.52,\"y\":-3.09},{\"name\":\"Coin icon2\",\"parent\":\"bone\",\"x\":28.27,\"y\":-10.85},{\"name\":\"Coin icon3\",\"parent\":\"bone\",\"x\":18.58,\"y\":-15.56},{\"name\":\"Free Coins\",\"parent\":\"bone\",\"x\":0.2,\"y\":-26.11},{\"name\":\"ban\",\"parent\":\"bone\",\"x\":-3,\"y\":2},{\"name\":\"bone2\",\"parent\":\"bone\"},{\"name\":\"bone3\",\"parent\":\"bone\"}],\"slots\":[{\"name\":\"Coin icon1_bian\",\"bone\":\"Coin icon1\",\"attachment\":\"Coin icon1_bian\"},{\"name\":\"ban_bian\",\"bone\":\"ban\",\"attachment\":\"ban_bian\"},{\"name\":\"Coin icon2_bian\",\"bone\":\"Coin icon2\",\"attachment\":\"Coin icon2_bian\"},{\"name\":\"Coin icon3_bian\",\"bone\":\"Coin icon3\",\"attachment\":\"Coin icon3_bian\"},{\"name\":\"Coin icon1\",\"bone\":\"Coin icon1\",\"attachment\":\"Coin icon1\"},{\"name\":\"Coin icon4\",\"bone\":\"Coin icon1\",\"blend\":\"additive\"},{\"name\":\"ban\",\"bone\":\"ban\",\"attachment\":\"ban\"},{\"name\":\"Coin icon2\",\"bone\":\"Coin icon2\",\"attachment\":\"Coin icon2\"},{\"name\":\"Coin icon5\",\"bone\":\"Coin icon2\",\"blend\":\"additive\"},{\"name\":\"Coin icon3\",\"bone\":\"Coin icon3\",\"attachment\":\"Coin icon3\"},{\"name\":\"Coin icon6\",\"bone\":\"Coin icon3\",\"blend\":\"additive\"},{\"name\":\"Free Coins\",\"bone\":\"Free Coins\",\"attachment\":\"Free Coins\"},{\"name\":\"sg\",\"bone\":\"bone2\",\"blend\":\"additive\"},{\"name\":\"xx1\",\"bone\":\"bone3\",\"blend\":\"additive\"}],\"skins\":{\"default\":{\"Coin icon1\":{\"Coin icon1\":{\"x\":0.48,\"y\":0.09,\"width\":16,\"height\":16}},\"Coin icon1_bian\":{\"Coin icon1_bian\":{\"x\":0.48,\"y\":0.09,\"width\":22,\"height\":22}},\"Coin icon2\":{\"Coin icon2\":{\"x\":1.23,\"y\":-0.15,\"width\":17,\"height\":18}},\"Coin icon2_bian\":{\"Coin icon2_bian\":{\"x\":1.23,\"y\":-0.15,\"width\":23,\"height\":24}},\"Coin icon3\":{\"Coin icon3\":{\"x\":0.42,\"y\":-0.94,\"width\":18,\"height\":17}},\"Coin icon3_bian\":{\"Coin icon3_bian\":{\"x\":0.42,\"y\":-0.94,\"width\":24,\"height\":23}},\"Coin icon4\":{\"Coin icon1\":{\"x\":0.48,\"y\":0.09,\"width\":16,\"height\":16}},\"Coin icon5\":{\"Coin icon2\":{\"x\":1.23,\"y\":-0.15,\"width\":17,\"height\":18}},\"Coin icon6\":{\"Coin icon3\":{\"x\":0.42,\"y\":-0.94,\"width\":18,\"height\":17}},\"Free Coins\":{\"Free Coins\":{\"x\":3.3,\"y\":1.61,\"width\":97,\"height\":21}},\"ban\":{\"ban\":{\"x\":-2,\"y\":-2,\"width\":54,\"height\":50}},\"ban_bian\":{\"ban_bian\":{\"x\":-2,\"y\":-2,\"width\":60,\"height\":56}},\"sg\":{\"sg\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[39,-61.5,-39,-61.5,-39,61.5,39,61.5],\"hull\":4}},\"xx1\":{\"xx1\":{\"width\":128,\"height\":128}}}},\"animations\":{\"animation\":{\"slots\":{\"Coin icon1\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon1\"}]},\"Coin icon2\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon2\"}]},\"Coin icon3\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon3\"}]},\"Coin icon4\":{\"color\":[{\"time\":1,\"color\":\"ffffff00\"},{\"time\":1.3333,\"color\":\"ffffffff\"},{\"time\":1.6667,\"color\":\"ffffff00\"}],\"attachment\":[{\"time\":0,\"name\":null},{\"time\":1,\"name\":\"Coin icon1\"}]},\"Coin icon5\":{\"color\":[{\"time\":1.1667,\"color\":\"ffffff00\"},{\"time\":1.5,\"color\":\"ffffffff\"},{\"time\":1.8333,\"color\":\"ffffff00\"}],\"attachment\":[{\"time\":0,\"name\":null},{\"time\":1.1667,\"name\":\"Coin icon2\"}]},\"Coin icon6\":{\"color\":[{\"time\":1.3333,\"color\":\"ffffff00\"},{\"time\":1.6667,\"color\":\"ffffffff\"},{\"time\":2,\"color\":\"ffffff00\"}],\"attachment\":[{\"time\":0,\"name\":null},{\"time\":1.3333,\"name\":\"Coin icon3\"}]},\"Coin icon1_bian\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon1_bian\"}]},\"Coin icon2_bian\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon2_bian\"}]},\"Coin icon3_bian\":{\"attachment\":[{\"time\":0,\"name\":\"Coin icon3_bian\"}]},\"Free Coins\":{\"attachment\":[{\"time\":0,\"name\":\"Free Coins\"}]},\"ban\":{\"attachment\":[{\"time\":0,\"name\":\"ban\"}]},\"ban_bian\":{\"attachment\":[{\"time\":0,\"name\":\"ban_bian\"}]},\"sg\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\"},{\"time\":0.1667,\"color\":\"ffd44cb0\"},{\"time\":0.5,\"color\":\"ffbe0fd4\"},{\"time\":1,\"color\":\"ffffff00\"}],\"attachment\":[{\"time\":0,\"name\":\"sg\"}]},\"xx1\":{\"attachment\":[{\"time\":0,\"name\":null},{\"time\":1,\"name\":\"xx1\"}]}},\"bones\":{\"root\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"bone\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"ban\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":1,\"angle\":-7.54},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"Coin icon3\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"Coin icon2\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"Coin icon1\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"Free Coins\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"bone2\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":1,\"angle\":-12.8}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0},{\"time\":1,\"x\":32.49,\"y\":1.34}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1}]},\"bone3\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":1,\"angle\":0},{\"time\":1.1667,\"angle\":-144.74}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0},{\"time\":1,\"x\":22.77,\"y\":4.38}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1},{\"time\":1,\"x\":0,\"y\":0},{\"time\":1.1667,\"x\":0.5,\"y\":0.5},{\"time\":1.3333,\"x\":0,\"y\":0}]}},\"deform\":{\"default\":{\"sg\":{\"sg\":[{\"time\":0,\"vertices\":[-42.31039,39.02174,15.84426,28.69996,1.4404,-43.71174,-56.71425,-33.38996]},{\"time\":0.5,\"vertices\":[-29.37919,34.94465,9.42456,27.9799,-4.9793,-44.4318,-43.78306,-37.46704]},{\"time\":1,\"vertices\":[-39.8612,28.24143,15.84426,28.69996,1.4404,-43.71174,-54.26506,-44.17026]}]}}}}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "7L2wScLWONk5s9CokTH8NnSvTtQ",
+      "spine": "3.5.51",
+      "width": 97,
+      "height": 63
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "Coin icon1",
+        "parent": "bone",
+        "rotation": 119.06,
+        "x": 20.52,
+        "y": -3.09
+      },
+      {
+        "name": "Coin icon2",
+        "parent": "bone",
+        "x": 28.27,
+        "y": -10.85
+      },
+      {
+        "name": "Coin icon3",
+        "parent": "bone",
+        "x": 18.58,
+        "y": -15.56
+      },
+      {
+        "name": "Free Coins",
+        "parent": "bone",
+        "x": 0.2,
+        "y": -26.11
+      },
+      {
+        "name": "ban",
+        "parent": "bone",
+        "x": -3,
+        "y": 2
+      },
+      {
+        "name": "bone2",
+        "parent": "bone"
+      },
+      {
+        "name": "bone3",
+        "parent": "bone"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Coin icon1_bian",
+        "bone": "Coin icon1",
+        "attachment": "Coin icon1_bian"
+      },
+      {
+        "name": "ban_bian",
+        "bone": "ban",
+        "attachment": "ban_bian"
+      },
+      {
+        "name": "Coin icon2_bian",
+        "bone": "Coin icon2",
+        "attachment": "Coin icon2_bian"
+      },
+      {
+        "name": "Coin icon3_bian",
+        "bone": "Coin icon3",
+        "attachment": "Coin icon3_bian"
+      },
+      {
+        "name": "Coin icon1",
+        "bone": "Coin icon1",
+        "attachment": "Coin icon1"
+      },
+      {
+        "name": "Coin icon4",
+        "bone": "Coin icon1",
+        "blend": "additive"
+      },
+      {
+        "name": "ban",
+        "bone": "ban",
+        "attachment": "ban"
+      },
+      {
+        "name": "Coin icon2",
+        "bone": "Coin icon2",
+        "attachment": "Coin icon2"
+      },
+      {
+        "name": "Coin icon5",
+        "bone": "Coin icon2",
+        "blend": "additive"
+      },
+      {
+        "name": "Coin icon3",
+        "bone": "Coin icon3",
+        "attachment": "Coin icon3"
+      },
+      {
+        "name": "Coin icon6",
+        "bone": "Coin icon3",
+        "blend": "additive"
+      },
+      {
+        "name": "Free Coins",
+        "bone": "Free Coins",
+        "attachment": "Free Coins"
+      },
+      {
+        "name": "sg",
+        "bone": "bone2",
+        "blend": "additive"
+      },
+      {
+        "name": "xx1",
+        "bone": "bone3",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Coin icon1": {
+          "Coin icon1": {
+            "x": 0.48,
+            "y": 0.09,
+            "width": 16,
+            "height": 16
+          }
+        },
+        "Coin icon1_bian": {
+          "Coin icon1_bian": {
+            "x": 0.48,
+            "y": 0.09,
+            "width": 22,
+            "height": 22
+          }
+        },
+        "Coin icon2": {
+          "Coin icon2": {
+            "x": 1.23,
+            "y": -0.15,
+            "width": 17,
+            "height": 18
+          }
+        },
+        "Coin icon2_bian": {
+          "Coin icon2_bian": {
+            "x": 1.23,
+            "y": -0.15,
+            "width": 23,
+            "height": 24
+          }
+        },
+        "Coin icon3": {
+          "Coin icon3": {
+            "x": 0.42,
+            "y": -0.94,
+            "width": 18,
+            "height": 17
+          }
+        },
+        "Coin icon3_bian": {
+          "Coin icon3_bian": {
+            "x": 0.42,
+            "y": -0.94,
+            "width": 24,
+            "height": 23
+          }
+        },
+        "Coin icon4": {
+          "Coin icon1": {
+            "x": 0.48,
+            "y": 0.09,
+            "width": 16,
+            "height": 16
+          }
+        },
+        "Coin icon5": {
+          "Coin icon2": {
+            "x": 1.23,
+            "y": -0.15,
+            "width": 17,
+            "height": 18
+          }
+        },
+        "Coin icon6": {
+          "Coin icon3": {
+            "x": 0.42,
+            "y": -0.94,
+            "width": 18,
+            "height": 17
+          }
+        },
+        "Free Coins": {
+          "Free Coins": {
+            "x": 3.3,
+            "y": 1.61,
+            "width": 97,
+            "height": 21
+          }
+        },
+        "ban": {
+          "ban": {
+            "x": -2,
+            "y": -2,
+            "width": 54,
+            "height": 50
+          }
+        },
+        "ban_bian": {
+          "ban_bian": {
+            "x": -2,
+            "y": -2,
+            "width": 60,
+            "height": 56
+          }
+        },
+        "sg": {
+          "sg": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              39,
+              -61.5,
+              -39,
+              -61.5,
+              -39,
+              61.5,
+              39,
+              61.5
+            ],
+            "hull": 4
+          }
+        },
+        "xx1": {
+          "xx1": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Coin icon1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon1"
+              }
+            ]
+          },
+          "Coin icon2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon2"
+              }
+            ]
+          },
+          "Coin icon3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon3"
+              }
+            ]
+          },
+          "Coin icon4": {
+            "color": [
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "Coin icon1"
+              }
+            ]
+          },
+          "Coin icon5": {
+            "color": [
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.8333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.1667,
+                "name": "Coin icon2"
+              }
+            ]
+          },
+          "Coin icon6": {
+            "color": [
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.3333,
+                "name": "Coin icon3"
+              }
+            ]
+          },
+          "Coin icon1_bian": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon1_bian"
+              }
+            ]
+          },
+          "Coin icon2_bian": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon2_bian"
+              }
+            ]
+          },
+          "Coin icon3_bian": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Coin icon3_bian"
+              }
+            ]
+          },
+          "Free Coins": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Free Coins"
+              }
+            ]
+          },
+          "ban": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "ban"
+              }
+            ]
+          },
+          "ban_bian": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "ban_bian"
+              }
+            ]
+          },
+          "sg": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffd44cb0"
+              },
+              {
+                "time": 0.5,
+                "color": "ffbe0fd4"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "sg"
+              }
+            ]
+          },
+          "xx1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "xx1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "ban": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": -7.54
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Coin icon3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Coin icon2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Coin icon1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Free Coins": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": -12.8
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": 32.49,
+                "y": 1.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0
+              },
+              {
+                "time": 1.1667,
+                "angle": -144.74
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": 22.77,
+                "y": 4.38
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "sg": {
+              "sg": [
+                {
+                  "time": 0,
+                  "vertices": [
+                    -42.31039,
+                    39.02174,
+                    15.84426,
+                    28.69996,
+                    1.4404,
+                    -43.71174,
+                    -56.71425,
+                    -33.38996
+                  ]
+                },
+                {
+                  "time": 0.5,
+                  "vertices": [
+                    -29.37919,
+                    34.94465,
+                    9.42456,
+                    27.9799,
+                    -4.9793,
+                    -44.4318,
+                    -43.78306,
+                    -37.46704
+                  ]
+                },
+                {
+                  "time": 1,
+                  "vertices": [
+                    -39.8612,
+                    28.24143,
+                    15.84426,
+                    28.69996,
+                    1.4404,
+                    -43.71174,
+                    -54.26506,
+                    -44.17026
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nAD.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nCoin icon1\n  rotate: false\n  xy: 194, 191\n  size: 16, 16\n  orig: 16, 16\n  offset: 0, 0\n  index: -1\nCoin icon1_bian\n  rotate: false\n  xy: 194, 209\n  size: 22, 22\n  orig: 22, 22\n  offset: 0, 0\n  index: -1\nCoin icon2\n  rotate: true\n  xy: 2, 2\n  size: 17, 18\n  orig: 17, 18\n  offset: 0, 0\n  index: -1\nCoin icon2_bian\n  rotate: false\n  xy: 231, 230\n  size: 23, 24\n  orig: 23, 24\n  offset: 0, 0\n  index: -1\nCoin icon3\n  rotate: false\n  xy: 22, 2\n  size: 18, 17\n  orig: 18, 17\n  offset: 0, 0\n  index: -1\nCoin icon3_bian\n  rotate: false\n  xy: 2, 21\n  size: 24, 23\n  orig: 24, 23\n  offset: 0, 0\n  index: -1\nFree Coins\n  rotate: false\n  xy: 132, 233\n  size: 97, 21\n  orig: 97, 21\n  offset: 0, 0\n  index: -1\nban\n  rotate: false\n  xy: 132, 123\n  size: 54, 50\n  orig: 54, 50\n  offset: 0, 0\n  index: -1\nban_bian\n  rotate: false\n  xy: 132, 175\n  size: 60, 56\n  orig: 60, 56\n  offset: 0, 0\n  index: -1\nsg\n  rotate: true\n  xy: 2, 46\n  size: 78, 123\n  orig: 78, 123\n  offset: 0, 0\n  index: -1\nxx1\n  rotate: false\n  xy: 2, 126\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "34VAlZv2BL5brp9UyoauO9"
+    }
+  ],
+  "textureNames": [
+    "AD.png"
+  ]
+}

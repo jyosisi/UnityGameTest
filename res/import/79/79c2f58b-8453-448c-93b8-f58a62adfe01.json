@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panda",
+    "texture": "fbELiqUJJMSZ9+a37gs4f0",
+    "rect": [
+      3,
+      3,
+      221,
+      116
+    ],
+    "offset": [
+      -14.5,
+      3
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poke",
+    "texture": "8dRO/h/PpKqop8fFIVX46U",
+    "rect": [
+      2,
+      3,
+      354,
+      442
+    ],
+    "offset": [
+      -77,
+      32
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

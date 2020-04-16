@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diamond",
+    "texture": "42eYkqVnZOpJONxro+dX3h",
+    "rect": [
+      2,
+      17,
+      497,
+      482
+    ],
+    "offset": [
+      -5.5,
+      -2
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

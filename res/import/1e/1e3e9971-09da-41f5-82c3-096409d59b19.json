@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hua",
+    "texture": "e51ivZXj9Kp7wuWUvpyHY+",
+    "rect": [
+      2,
+      3,
+      64,
+      109
+    ],
+    "offset": [
+      -30,
+      6.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

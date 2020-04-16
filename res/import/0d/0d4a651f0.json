@@ -1,0 +1,188 @@
+[
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "img_xmas_task_num-export",
+    "spriteFrame": {
+      "__uuid__": "60KdEg/KhJ4Y+ye00eOYqg"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 20,
+      "fontSize": 32,
+      "atlasName": "img_xmas_task_num-export.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 160
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 20
+        },
+        "47": {
+          "rect": {
+            "x": 51,
+            "y": 19,
+            "width": 10,
+            "height": 17
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 8
+        },
+        "48": {
+          "rect": {
+            "x": 34,
+            "y": 0,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "49": {
+          "rect": {
+            "x": 18,
+            "y": 0,
+            "width": 12,
+            "height": 17
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 10
+        },
+        "50": {
+          "rect": {
+            "x": 51,
+            "y": 0,
+            "width": 15,
+            "height": 17
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "51": {
+          "rect": {
+            "x": 34,
+            "y": 40,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "52": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 16,
+            "height": 17
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 14
+        },
+        "53": {
+          "rect": {
+            "x": 34,
+            "y": 20,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "54": {
+          "rect": {
+            "x": 17,
+            "y": 38,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "55": {
+          "rect": {
+            "x": 17,
+            "y": 19,
+            "width": 15,
+            "height": 17
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "56": {
+          "rect": {
+            "x": 0,
+            "y": 39,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        },
+        "57": {
+          "rect": {
+            "x": 0,
+            "y": 19,
+            "width": 15,
+            "height": 18
+          },
+          "xOffset": 0,
+          "yOffset": 2,
+          "xAdvance": 13
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "img_xmas_task_num-export",
+      "texture": "e6O9tJMENDR7ue+qDQqYJP",
+      "rect": [
+        0,
+        0,
+        66,
+        58
+      ],
+      "offset": [
+        -31,
+        3
+      ],
+      "originalSize": [
+        128,
+        64
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

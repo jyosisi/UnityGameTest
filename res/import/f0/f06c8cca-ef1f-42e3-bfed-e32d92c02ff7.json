@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "xiezi.atlas",
+  "text": "\nxiezi.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbz\n  rotate: true\n  xy: 268, 5\n  size: 93, 101\n  orig: 93, 101\n  offset: 0, 0\n  index: -1\nshoes\n  rotate: false\n  xy: 371, 12\n  size: 75, 86\n  orig: 75, 86\n  offset: 0, 0\n  index: -1\nshoes_mohu\n  rotate: false\n  xy: 2, 2\n  size: 264, 96\n  orig: 264, 96\n  offset: 0, 0\n  index: -1\n"
+}

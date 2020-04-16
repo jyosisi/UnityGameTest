@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "youwin",
+    "texture": "58iYoCyspGoZvSXCn7lwhB",
+    "rect": [
+      3,
+      3,
+      1005,
+      1018
+    ],
+    "offset": [
+      -6.5,
+      0
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

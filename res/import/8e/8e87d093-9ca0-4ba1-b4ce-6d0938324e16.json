@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "event",
+    "texture": "0c+dLw0J9A/bgxO2/MUvPo",
+    "rect": [
+      3,
+      3,
+      194,
+      216
+    ],
+    "offset": [
+      -28,
+      17
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

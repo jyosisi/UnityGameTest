@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "yinliao.atlas",
+  "text": "\nyinliao.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLemon\n  rotate: false\n  xy: 51, 65\n  size: 25, 25\n  orig: 25, 25\n  offset: 0, 0\n  index: -1\nbeizi\n  rotate: false\n  xy: 2, 28\n  size: 47, 62\n  orig: 47, 62\n  offset: 0, 0\n  index: -1\nsg\n  rotate: false\n  xy: 132, 149\n  size: 12, 31\n  orig: 12, 31\n  offset: 0, 0\n  index: -1\nwater\n  rotate: false\n  xy: 2, 2\n  size: 37, 24\n  orig: 37, 24\n  offset: 0, 0\n  index: -1\nxiguan\n  rotate: false\n  xy: 132, 182\n  size: 31, 38\n  orig: 31, 38\n  offset: 0, 0\n  index: -1\nxx\n  rotate: false\n  xy: 2, 92\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n"
+}

@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "guzhang.atlas",
+  "text": "\nguzhang.png\nsize: 256,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nshou\n  rotate: false\n  xy: 77, 20\n  size: 74, 59\n  orig: 74, 59\n  offset: 0, 0\n  index: -1\nshou2\n  rotate: false\n  xy: 2, 2\n  size: 73, 77\n  orig: 73, 77\n  offset: 0, 0\n  index: -1\nxg\n  rotate: false\n  xy: 153, 28\n  size: 55, 51\n  orig: 55, 51\n  offset: 0, 0\n  index: -1\n"
+}

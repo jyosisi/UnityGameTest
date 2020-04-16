@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_private_di",
+    "texture": "477TU8rtROU6bQJBmYsVgV",
+    "rect": [
+      0,
+      0,
+      10,
+      330
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      330
+    ],
+    "capInsets": [
+      4,
+      50,
+      4,
+      50
+    ]
+  }
+}

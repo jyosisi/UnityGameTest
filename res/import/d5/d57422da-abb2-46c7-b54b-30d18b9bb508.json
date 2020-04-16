@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huayuan",
+    "texture": "552bBaUqpCIpZWQ0gEntoO",
+    "rect": [
+      2,
+      6,
+      1020,
+      1016
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

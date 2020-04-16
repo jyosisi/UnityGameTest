@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_profile_suit_di",
+    "texture": "8aVqi8oUBFmL+Hjpe5zBmn",
+    "rect": [
+      0,
+      0,
+      150,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      40,
+      40,
+      40,
+      40
+    ]
+  }
+}

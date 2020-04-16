@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_daily_bonus_coins",
+    "texture": "fdaNkXt/dAyZ23/0WBSBvF",
+    "rect": [
+      3,
+      0,
+      61,
+      65
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      67,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fb_close_lobby",
+    "texture": "1c2R4JpGBFl5EnT1X8jhcU",
+    "rect": [
+      12,
+      12,
+      53,
+      53
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      76,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

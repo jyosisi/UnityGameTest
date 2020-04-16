@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_book",
+    "texture": "42dE6g6gNOAbuvmB5gTlWX",
+    "rect": [
+      2,
+      10,
+      1010,
+      1012
+    ],
+    "offset": [
+      -5,
+      -4
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

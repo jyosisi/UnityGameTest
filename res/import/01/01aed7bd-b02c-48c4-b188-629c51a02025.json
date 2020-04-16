@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_classic_di",
+    "texture": "d6IefjpVxMnrbpiV68ZctS",
+    "rect": [
+      0,
+      10,
+      307,
+      593
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      307,
+      603
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_btn_gs_auto_sort_di_off",
+    "texture": "2eNGSk/YNPP7+aUbYD/Xzc",
+    "rect": [
+      0,
+      0,
+      122,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_profile_type_off",
+    "texture": "14sThuQdVM06Gti0gUqQ/a",
+    "rect": [
+      0,
+      0,
+      204,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      54
+    ],
+    "capInsets": [
+      40,
+      0,
+      40,
+      0
+    ]
+  }
+}

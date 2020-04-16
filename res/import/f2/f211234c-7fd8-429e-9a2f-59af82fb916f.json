@@ -1,0 +1,41 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "ChipsFlyEffect",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ChipsFlyEffect",
+    "_level": 2,
+    "_components": [
+      {
+        "__type__": "72ad9JDxOxLbrmsCmJa/fdC",
+        "node": {
+          "__id__": 1
+        },
+        "chipRotate": {
+          "__uuid__": "f1pRIDgvlKNr89KROZ6gg2"
+        },
+        "diamondRotate": {
+          "__uuid__": "a065G5p9RDP7m6/US3pgCh"
+        },
+        "tokenRotate": {
+          "__uuid__": "73/MOKdF1L+ok2zeesdcTh"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "f2ESNMf9hCnpovWa+C+5Fv"
+      },
+      "fileId": "cf7rOOPpxGQL9VqfL9lykU"
+    }
+  }
+]

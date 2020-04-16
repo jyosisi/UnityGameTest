@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "coins.atlas",
+  "text": "\ncoins.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ndi\n  rotate: false\n  xy: 808, 736\n  size: 186, 199\n  orig: 186, 199\n  offset: 0, 0\n  index: -1\ngx\n  rotate: false\n  xy: 2, 2\n  size: 72, 72\n  orig: 72, 72\n  offset: 0, 0\n  index: -1\ngx2\n  rotate: false\n  xy: 503, 374\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\nlight\n  rotate: false\n  xy: 2, 483\n  size: 499, 452\n  orig: 499, 452\n  offset: 0, 0\n  index: -1\nsg1\n  rotate: false\n  xy: 409, 468\n  size: 82, 13\n  orig: 82, 13\n  offset: 0, 0\n  index: -1\nxx1\n  rotate: false\n  xy: 761, 596\n  size: 34, 34\n  orig: 34, 34\n  offset: 0, 0\n  index: -1\nxx_lizi\n  rotate: false\n  xy: 808, 722\n  size: 12, 12\n  orig: 12, 12\n  offset: 0, 0\n  index: -1\nzhuan\n  rotate: false\n  xy: 503, 632\n  size: 303, 303\n  orig: 303, 303\n  offset: 0, 0\n  index: -1\nzhuan2\n  rotate: false\n  xy: 2, 76\n  size: 405, 405\n  orig: 405, 405\n  offset: 0, 0\n  index: -1\n"
+}

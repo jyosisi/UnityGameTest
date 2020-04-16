@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuntiananniu",
+    "texture": "21hyoEdb5M6az4cGGevFVj",
+    "rect": [
+      2,
+      3,
+      431,
+      507
+    ],
+    "offset": [
+      -38.5,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

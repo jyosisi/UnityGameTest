@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quantao",
+    "texture": "5fP005kShOPogiGb32RTHA",
+    "rect": [
+      3,
+      3,
+      161,
+      57
+    ],
+    "offset": [
+      -44.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

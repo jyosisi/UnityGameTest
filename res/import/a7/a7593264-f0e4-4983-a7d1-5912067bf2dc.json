@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "chouma.atlas",
+  "text": "\nchouma.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncoin\n  rotate: false\n  xy: 2, 78\n  size: 146, 146\n  orig: 146, 146\n  offset: 0, 0\n  index: -1\nhoudu1\n  rotate: false\n  xy: 150, 78\n  size: 24, 146\n  orig: 24, 146\n  offset: 0, 0\n  index: -1\nhoudu2\n  rotate: true\n  xy: 2, 2\n  size: 74, 146\n  orig: 74, 146\n  offset: 0, 0\n  index: -1\n"
+}

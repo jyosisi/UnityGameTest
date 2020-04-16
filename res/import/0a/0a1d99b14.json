@@ -1,0 +1,107 @@
+[
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_vip2",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "ginandplusnumber",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_christmas",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "you win",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_witch",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_technology",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_garden",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "collection_claim",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_spade",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_beach",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_dragon",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "level_up",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_spring",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "fly_reward",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "fly_coin",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "button",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_west",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "fly_diamond",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_thanksgiving",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_vip1",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Gin_clow",
+    "_native": ".mp3"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kehuan",
+    "texture": "6c8xxfKyVAg7HCV26ePX+C",
+    "rect": [
+      2,
+      3,
+      504,
+      504
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

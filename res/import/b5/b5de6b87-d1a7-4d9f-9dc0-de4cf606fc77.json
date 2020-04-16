@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gin",
+    "texture": "6akNwxvGBMn535hh1CgIQB",
+    "rect": [
+      3,
+      3,
+      984,
+      1018
+    ],
+    "offset": [
+      -17,
+      0
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

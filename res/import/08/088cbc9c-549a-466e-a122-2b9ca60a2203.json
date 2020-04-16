@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "erji.atlas",
+  "text": "\nerji.png\nsize: 256,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ner1\n  rotate: true\n  xy: 176, 39\n  size: 23, 45\n  orig: 23, 45\n  offset: 0, 0\n  index: -1\ner2\n  rotate: true\n  xy: 121, 9\n  size: 23, 45\n  orig: 23, 45\n  offset: 0, 0\n  index: -1\nerji\n  rotate: false\n  xy: 2, 17\n  size: 117, 45\n  orig: 117, 45\n  offset: 0, 0\n  index: -1\nyinfu1\n  rotate: false\n  xy: 176, 2\n  size: 24, 35\n  orig: 24, 35\n  offset: 0, 0\n  index: -1\nyinfu2\n  rotate: true\n  xy: 202, 3\n  size: 34, 28\n  orig: 34, 28\n  offset: 0, 0\n  index: -1\nyinfu3\n  rotate: true\n  xy: 121, 34\n  size: 28, 53\n  orig: 28, 53\n  offset: 0, 0\n  index: -1\n"
+}

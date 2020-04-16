@@ -1,0 +1,330 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_btn_Hottest_Sale_ipad_2",
+      "texture": "fexLLRJcJMeoONOZ/RSUZ/",
+      "rect": [
+        0,
+        0,
+        446,
+        120
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        446,
+        120
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "eventLocalItem",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "eventLocalItem",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "3b093LwAMxLqLqKLkO6b2/v",
+          "node": {
+            "__id__": 1
+          },
+          "eventBg": {
+            "__id__": 3
+          },
+          "btnIcon": {
+            "__id__": 5
+          },
+          "bgSpriteFrames": [
+            {
+              "__uuid__": "75qHhb9XZBzqESFJmGnD7Z"
+            },
+            {
+              "__uuid__": "d4t4lUWiFAPag03ULKT5nH"
+            }
+          ],
+          "buttonSpriteFrames": [
+            {
+              "__uuid__": "94eaILjWNJbIkgdWkW1VwO"
+            },
+            {
+              "__uuid__": "00ITYbblpP3qrRUkhJKtwY"
+            }
+          ]
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 1
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 1
+              },
+              "_componentId": "3b093LwAMxLqLqKLkO6b2/v",
+              "handler": "onBuyBtnClk"
+            }
+          ],
+          "_N$target": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2av9Ry56tENIVcwyvdAWVH"
+        },
+        "fileId": "80yEKk7ulNkKChsy5AUByg"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 852,
+        "height": 470
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "bg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2av9Ry56tENIVcwyvdAWVH"
+        },
+        "fileId": "27sFKs2qZD+K3tYJB0fze0"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 852,
+        "height": 470
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 2
+      },
+      "_spriteFrame": {
+        "__uuid__": "937YSf7gtAipXaBkdVIC+b"
+      },
+      "_sizeMode": 2,
+      "_isTrimmedMode": false
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "btn",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "2av9Ry56tENIVcwyvdAWVH"
+        },
+        "fileId": "59pO2+tttBSp2K5H9mG+sG"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 310,
+        "height": 91
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -167
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 4
+      },
+      "_spriteFrame": {
+        "__uuid__": "baZ/3QNiRBcbXTWL5gMXyW"
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_Hottest_Sale_XR_1",
+      "texture": "e4F14ewjtH4ZYXwUocDFAd",
+      "rect": [
+        0,
+        0,
+        1022,
+        470
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1022,
+        470
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_Hottest_Sale_640_1",
+      "texture": "16XXX0P85GtoVwZVKQYowh",
+      "rect": [
+        0,
+        0,
+        852,
+        470
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        852,
+        470
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_btn_Hottest_Sale_XR_2",
+      "texture": "57MTiXBnxBMowhc3iF1M5e",
+      "rect": [
+        0,
+        0,
+        310,
+        90
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        310,
+        90
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_btn_Hottest_Sale_640_2",
+      "texture": "745uh3fkpNR5SiY8tM0l3d",
+      "rect": [
+        0,
+        0,
+        310,
+        91
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        310,
+        91
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "events_Hottest_Sale_ipad_1",
+      "texture": "a497NJ7cdHdI2BeBWVW10o",
+      "rect": [
+        0,
+        0,
+        940,
+        700
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        940,
+        700
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

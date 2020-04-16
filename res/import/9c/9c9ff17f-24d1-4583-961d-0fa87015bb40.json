@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gs_gift_3",
+    "texture": "b0aUddDFFDDJRi9USaQL5S",
+    "rect": [
+      7,
+      15,
+      114,
+      89
+    ],
+    "offset": [
+      -1,
+      6.5
+    ],
+    "originalSize": [
+      130,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

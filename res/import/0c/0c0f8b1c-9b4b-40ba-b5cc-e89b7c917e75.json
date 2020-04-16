@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiqiu",
+    "texture": "5dDH9NzKtKqIWdZ/eRx0wM",
+    "rect": [
+      3,
+      3,
+      473,
+      51
+    ],
+    "offset": [
+      -16.5,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ready.atlas",
+  "text": "\nready.png\nsize: 512,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\na\n  rotate: false\n  xy: 282, 21\n  size: 36, 31\n  orig: 36, 31\n  offset: 0, 0\n  index: -1\nbglight3\n  rotate: true\n  xy: 2, 2\n  size: 50, 100\n  orig: 50, 100\n  offset: 0, 0\n  index: -1\nd\n  rotate: false\n  xy: 200, 14\n  size: 39, 38\n  orig: 39, 38\n  offset: 0, 0\n  index: -1\ne\n  rotate: false\n  xy: 320, 20\n  size: 32, 32\n  orig: 32, 32\n  offset: 0, 0\n  index: -1\nr\n  rotate: false\n  xy: 104, 14\n  size: 47, 38\n  orig: 47, 38\n  offset: 0, 0\n  index: -1\ntanhao\n  rotate: false\n  xy: 153, 14\n  size: 45, 38\n  orig: 45, 38\n  offset: 0, 0\n  index: -1\ny\n  rotate: true\n  xy: 241, 14\n  size: 38, 39\n  orig: 38, 39\n  offset: 0, 0\n  index: -1\n"
+}

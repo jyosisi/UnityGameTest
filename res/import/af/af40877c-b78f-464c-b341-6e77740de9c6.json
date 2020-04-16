@@ -1,0 +1,349 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "total rank",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"/p0eyDgtloBFFQ6iVO4FkZ8dGMQ\",\"spine\":\"3.5.51\",\"width\":122,\"height\":106},\"bones\":[{\"name\":\"root\"},{\"name\":\"bone\",\"parent\":\"root\"},{\"name\":\"bone2\",\"parent\":\"bone\"},{\"name\":\"l_1\",\"parent\":\"bone\",\"length\":73.87,\"rotation\":124.09,\"x\":-9.32,\"y\":-46.26},{\"name\":\"r_1\",\"parent\":\"bone\",\"length\":81.65,\"rotation\":56.49,\"x\":4.48,\"y\":-49.02}],\"slots\":[{\"name\":\"bone\",\"bone\":\"bone2\",\"blend\":\"additive\"},{\"name\":\"r_1\",\"bone\":\"r_1\",\"attachment\":\"r_1\"},{\"name\":\"l_1\",\"bone\":\"l_1\",\"attachment\":\"l_1\"},{\"name\":\"coin\",\"bone\":\"bone\",\"attachment\":\"coin\"}],\"skins\":{\"default\":{\"bone\":{\"light\":{\"x\":0.5,\"width\":113,\"height\":114}},\"coin\":{\"coin\":{\"x\":-0.5,\"y\":0.5,\"width\":91,\"height\":93}},\"l_1\":{\"l_1\":{\"x\":35.98,\"y\":3.64,\"rotation\":-124.09,\"width\":59,\"height\":81}},\"r_1\":{\"r_1\":{\"x\":39.81,\"y\":-4.84,\"rotation\":-56.49,\"width\":59,\"height\":81}}}},\"animations\":{\"animation\":{\"slots\":{\"bone\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\"},{\"time\":1,\"color\":\"ff00b17d\"},{\"time\":2,\"color\":\"ffffff00\"}],\"attachment\":[{\"time\":0,\"name\":\"light\"}]},\"coin\":{\"attachment\":[{\"time\":0,\"name\":\"coin\"}]},\"l_1\":{\"attachment\":[{\"time\":0,\"name\":\"l_1\"}]},\"r_1\":{\"attachment\":[{\"time\":0,\"name\":\"r_1\"}]}},\"bones\":{\"bone\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1},{\"time\":1,\"x\":1.1,\"y\":1.1},{\"time\":2,\"x\":1,\"y\":1}]},\"bone2\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0},{\"time\":1,\"x\":0,\"y\":3.64},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1},{\"time\":1,\"x\":1.233,\"y\":1.233},{\"time\":2,\"x\":1,\"y\":1}]},\"l_1\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":1,\"angle\":10.87},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"r_1\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":1,\"angle\":-13.88},{\"time\":2,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":2,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":2,\"x\":1,\"y\":1}]},\"root\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1}]}},\"drawOrder\":[{\"time\":0}]}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "/p0eyDgtloBFFQ6iVO4FkZ8dGMQ",
+      "spine": "3.5.51",
+      "width": 122,
+      "height": 106
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "bone"
+      },
+      {
+        "name": "l_1",
+        "parent": "bone",
+        "length": 73.87,
+        "rotation": 124.09,
+        "x": -9.32,
+        "y": -46.26
+      },
+      {
+        "name": "r_1",
+        "parent": "bone",
+        "length": 81.65,
+        "rotation": 56.49,
+        "x": 4.48,
+        "y": -49.02
+      }
+    ],
+    "slots": [
+      {
+        "name": "bone",
+        "bone": "bone2",
+        "blend": "additive"
+      },
+      {
+        "name": "r_1",
+        "bone": "r_1",
+        "attachment": "r_1"
+      },
+      {
+        "name": "l_1",
+        "bone": "l_1",
+        "attachment": "l_1"
+      },
+      {
+        "name": "coin",
+        "bone": "bone",
+        "attachment": "coin"
+      }
+    ],
+    "skins": {
+      "default": {
+        "bone": {
+          "light": {
+            "x": 0.5,
+            "width": 113,
+            "height": 114
+          }
+        },
+        "coin": {
+          "coin": {
+            "x": -0.5,
+            "y": 0.5,
+            "width": 91,
+            "height": 93
+          }
+        },
+        "l_1": {
+          "l_1": {
+            "x": 35.98,
+            "y": 3.64,
+            "rotation": -124.09,
+            "width": 59,
+            "height": 81
+          }
+        },
+        "r_1": {
+          "r_1": {
+            "x": 39.81,
+            "y": -4.84,
+            "rotation": -56.49,
+            "width": 59,
+            "height": 81
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "bone": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ff00b17d"
+              },
+              {
+                "time": 2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "light"
+              }
+            ]
+          },
+          "coin": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "coin"
+              }
+            ]
+          },
+          "l_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "l_1"
+              }
+            ]
+          },
+          "r_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "r_1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 3.64
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.233,
+                "y": 1.233
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "l_1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": 10.87
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "r_1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": -13.88
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "time": 0
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\ntotal rank.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncoin\n  rotate: false\n  xy: 2, 28\n  size: 91, 93\n  orig: 91, 93\n  offset: 0, 0\n  index: -1\nl_1\n  rotate: false\n  xy: 117, 156\n  size: 59, 81\n  orig: 59, 81\n  offset: 0, 0\n  index: -1\nlight\n  rotate: false\n  xy: 2, 123\n  size: 113, 114\n  orig: 113, 114\n  offset: 0, 0\n  index: -1\nr_1\n  rotate: false\n  xy: 178, 156\n  size: 59, 81\n  orig: 59, 81\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "admnlf551LqqcHjGiy78IU"
+    }
+  ],
+  "textureNames": [
+    "total rank.png"
+  ]
+}

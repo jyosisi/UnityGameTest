@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level_up",
+    "texture": "9abegBMXRAOJ5QKSNK0NkM",
+    "rect": [
+      2,
+      3,
+      1011,
+      1010
+    ],
+    "offset": [
+      -4.5,
+      4
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "poker_button.atlas",
+  "text": "\npoker_button.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\npoke_1\n  rotate: false\n  xy: 2, 58\n  size: 47, 59\n  orig: 47, 59\n  offset: 0, 0\n  index: -1\npoke_2\n  rotate: false\n  xy: 2, 2\n  size: 37, 54\n  orig: 37, 54\n  offset: 0, 0\n  index: -1\npoke_3\n  rotate: false\n  xy: 136, 192\n  size: 47, 59\n  orig: 47, 59\n  offset: 0, 0\n  index: -1\npoke_4\n  rotate: false\n  xy: 2, 119\n  size: 132, 132\n  orig: 132, 132\n  offset: 0, 0\n  index: -1\nsg1\n  rotate: false\n  xy: 51, 104\n  size: 82, 13\n  orig: 82, 13\n  offset: 0, 0\n  index: -1\n"
+}

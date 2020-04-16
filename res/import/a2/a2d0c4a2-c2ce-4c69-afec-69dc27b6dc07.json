@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_button",
+    "texture": "66s7/niQJOIanstcimY24O",
+    "rect": [
+      3,
+      3,
+      179,
+      247
+    ],
+    "offset": [
+      -35.5,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

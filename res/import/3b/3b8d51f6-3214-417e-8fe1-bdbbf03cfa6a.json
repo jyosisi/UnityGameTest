@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "water",
+    "texture": "37wElFZk9II5oKs/sY3Zjp",
+    "rect": [
+      2,
+      3,
+      456,
+      507
+    ],
+    "offset": [
+      -26,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiezi",
+    "texture": "0cWNeqNpxMhK9xggvIH0rl",
+    "rect": [
+      3,
+      3,
+      442,
+      94
+    ],
+    "offset": [
+      -32,
+      14
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

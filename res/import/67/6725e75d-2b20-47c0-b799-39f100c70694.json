@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crown_gin+25",
+    "texture": "7f7p1BuVpPTZ9r4j5npy0p",
+    "rect": [
+      2,
+      3,
+      508,
+      507
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

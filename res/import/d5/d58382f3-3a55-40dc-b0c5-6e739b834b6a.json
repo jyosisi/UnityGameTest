@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "food_book",
+    "texture": "28gqlkH7tMKpUMGlLBx01D",
+    "rect": [
+      2,
+      9,
+      1010,
+      1013
+    ],
+    "offset": [
+      -5,
+      -3.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
